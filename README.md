@@ -26,7 +26,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
    * **😤 Where I Got Stuck**
 
-## 📚 Linear Regression
+## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
    * **📃 Description**
 
    * **🔑 Key Takeaways**
