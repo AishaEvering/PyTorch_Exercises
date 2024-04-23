@@ -3,6 +3,7 @@
 </p>
 
 # Linear Regression
+<sup>[Go to Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/README.md)</sup>
 
 Created linear data using `torch.arange`, built a linear regression model, created a testing and training loop, made predictions, plotted the predictions, saved the model to disk, and re-loaded the model.
 
