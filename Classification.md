@@ -3,6 +3,7 @@
 </p>
 
 # Binary & Multi-class Classification
+<sup>[Go to Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/README.md)</sup>
 
 Creating binary and multi-class classification models. Also I have to choose the appropriate loss and optimization functions.
 
