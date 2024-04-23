@@ -72,8 +72,8 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
            *    For Multiclass classification to first have to forward pass causing the model to return the raw logits.  Then call the softmax function which changes them to probabilities that add up to 1.  After that call `argmax()` to get the highest probability.
    * **😤 Where I Got Stuck**
 
-   * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuld the model everything is back to normal.
-   * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
+      * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuld the model everything is back to normal.
+      * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
 
 ## 🙏 Acknowledgments
 
