@@ -77,4 +77,4 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
 ## 🙏 Acknowledgments
 
-* [Daniel Bourke](https://github.com/mrdbourke)
+* [Daniel Bourke](https://github.com/mrdbourke) best teacher ever!
