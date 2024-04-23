@@ -32,12 +32,6 @@ Creating binary and multi-class classification models. Also I have to choose the
     * Multi-class Classification
        * Instead of SGD I used the Adam optimizer instead and increased the learning rate.  This returned a really great test accuracy.
 
-* **😤 Where I Got Stuck**
-
-  * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuild the model everything is back to normal.
-   * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
-
-
 ```mermaid
 ---
 title: Get Binary Classfication Predictions
@@ -54,3 +48,7 @@ flowchart LR
     a("`Forward Pass to get logits`") --> b("`Softmax Function to get probabilities, sum of classes = 1`") --> c("`Argmax to get highest probability`")
 
 ```
+* **😤 Where I Got Stuck**
+
+  * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuild the model everything is back to normal.
+   * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
