@@ -15,13 +15,14 @@ This repo will contain all exercises I did that cover different aspects of worki
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## 📃Description
+## 📃 Description
 
 This repo contains different aspects of PyTorch, what I learned, what finally clicked, and what took a minute.
   
 ## 📚 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
-   * **📃 Description**
-      I did these exercises to solidify the basics of working with Tensors.
+   * **📄 Description**
+
+     I did these exercises to solidify the basics of working with Tensors.
      
    * **🔑 Key Takeaways**
      * Device agnostic code is very very important.  It's best to set the device early in the project to make it easier to handle any device specific errors later.
@@ -32,14 +33,16 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
       * Why do we have to randomly squeeze tensors?  I understand the squeezing a tensor removes the 1 deminsions.
 
 ## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
-   * **📃 Description**
+   * **📄 Description**
+
+     With these exercises I created linear data using `torch.arange`, built a linear regression model, created a testing and training loop, made predictions, plotted the predictions, saved the model to disk, and loaded the model.
 
    * **🔑 Key Takeaways**
 
    * **😤 Where I Got Stuck**
 
 ## 📚 Binary & Multiclass Classification
-   * **📃 Description**
+   * **📄 Description**
 
    * **🔑 Key Takeaways**
 
