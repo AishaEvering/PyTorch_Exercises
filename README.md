@@ -19,7 +19,7 @@ This repo will contain all exercises I did that cover different aspects of worki
 
 This repo contains different aspects of PyTorch, what I learned, what finally clicked, and what took a minute.
   
-## 📚 Fundamentals (Tensors)
+## 📚 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
    * **📃 Description**
 
    * **🔑 Key Takeaways**
