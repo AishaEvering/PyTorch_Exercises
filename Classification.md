@@ -2,7 +2,7 @@
    <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="Face Verfication" width="600" height="300">
 </p>
 
-# PyTorch Exercises
+# Binary & Multiclass Classification
 
 This repo will contain all exercises I did that cover different aspects of working with PyTorch.  If you are reading this thanks for watching me grow. 😄
 
@@ -15,16 +15,6 @@ This repo will contain all exercises I did that cover different aspects of worki
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## 📃 Description
-
-This repo contains different aspects of PyTorch, what I learned, what finally clicked, and what took a minute.
-  
-## 📚 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
-   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Fundamentals.md)
-
-## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
-   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Linear_Regression.md)
-    
 ## 📚 [Binary & Multiclass Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
    * **📄 Description**
 
