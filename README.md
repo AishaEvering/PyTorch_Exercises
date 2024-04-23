@@ -44,7 +44,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
        * When testing or making predictions be sure to put the model in eval mode so it doesn't so extra uneeded steps like gradient descent, dropout, etc..
        * Also when testing or making predictions use `with torch.inference_mode():` for faster processing
        * It's recommended to save the stat_dict instead of the entire model.
-       * When saving the best model be sure to use `deepcopy(model.stat_dict()) or the best_model will be updated as the model continues to train.
+       * When saving the best model be sure to use `deepcopy(model.stat_dict())` or the best_model will be updated as the model continues to train.
 
    * **😤 Where I Got Stuck**
        * Squeezing and Unsqueezing tensors still seem a little unintuitive.  I recongnize the error so the fix is quick but I will like when to squeeze/unsqueeze to become more intuitive.
