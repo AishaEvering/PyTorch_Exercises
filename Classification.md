@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="PyTorch Logo" width="600" height="300">
 </p>
 
 # Binary & Multi-class Classification
@@ -34,10 +34,10 @@ Creating binary and multi-class classification models. Also I have to choose the
 
 ```mermaid
 ---
-title: Get Binary Classfication Predictions
+title: Get Binary Classification Predictions
 ---
 flowchart LR
-    a("`Forward Pass to get logits`") --> b("`Sigmoid Function to convert to 0->1 probablities`") --> c("`Round Probablities`")
+    a("`Forward Pass to get logits`") --> b("`Sigmoid Function to convert to 0->1 probabilities`") --> c("`Round Probabilities`")
 
 ```
 ```mermaid
