@@ -26,7 +26,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
    * **😤 Where I Got Stuck**
 
-## 📚 Regression
+## 📚 Linear Regression
    * **📃 Description**
 
    * **🔑 Key Takeaways**
