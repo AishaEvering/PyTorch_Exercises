@@ -1,8 +1,8 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/FaceVerification/blob/main/FaceVerification.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="Face Verfication" width="600" height="300">
 </p>
 
-# Face Verification (YouTube Tutorial) :youtube
+# PyTorch Excersises
 
 This is the result of an 8 part YouTube series of using Deep Learning with TensorFlow to authenicate your face much like on IPhone.  *Pretty Cool.*
 
