@@ -36,10 +36,6 @@ Creating binary and multi-class classification models. Also I have to choose the
   * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuild the model everything is back to normal.
    * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
 
-
-       * For Multi-class classification to first have to forward pass causing the model to return the raw logits.  Then call the Softmax function which changes them to probabilities that add up to 1.  After that call `argmax()` to get the highest probability.
-       * 
-
 ```mermaid
 ---
 title: Get Binary Classfication Predictions
