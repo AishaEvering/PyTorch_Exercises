@@ -50,7 +50,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
        * Squeezing and Unsqueezing tensors still seem a little unintuitive.  I recongnize the error so the fix is quick but I will like when to squeeze/unsqueeze to become more intuitive.
     
          
-## 📚 Binary & Multiclass Classification
+## 📚 [Binary & Multiclass Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
    * **📄 Description**
 
         These excersises consist of creating binary and multiclass classification models. Also I have to choose the appropriate loss and optimization functions.
