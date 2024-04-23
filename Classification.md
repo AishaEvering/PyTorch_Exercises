@@ -36,6 +36,7 @@ Creating binary and multi-class classification models. Also I have to choose the
   * Sometimes I'll walk away and when I run the same code I get an error that the tensor is not on the correct device.  I could just at `...to(device)` at the end but there's no real need the code was working perfectly fine before.  If I rebuild the model everything is back to normal.
    * Make sure you get the in_features, and out_features correct.  I mis-read my binary y label as 2 instead of the layer should return 1 value.  Found the issue and fixed it.
 
+
 ```mermaid
 ---
 title: Get Binary Classfication Predictions
