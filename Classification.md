@@ -2,7 +2,7 @@
    <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="Face Verfication" width="600" height="300">
 </p>
 
-# Binary & Multiclass Classification
+# Binary & Multi-class Classification
 
 This repo will contain all exercises I did that cover different aspects of working with PyTorch.  If you are reading this thanks for watching me grow. 😄
 
