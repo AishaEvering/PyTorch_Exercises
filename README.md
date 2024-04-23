@@ -21,10 +21,15 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
   
 ## 📚 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
    * **📃 Description**
-
+      I did these exercises to solidify the basics of working with Tensors.
+     
    * **🔑 Key Takeaways**
+     * Device agnostic code is very very important.  It's best to set the device early in the project to make it easier to handle any device specific errors later.
+     * Matplotlib does not support cuda.  You have to go back to `...cpu()` in order to plot something.
+     *  This is how you multiply a tensor, `tensor_1.matmul(tensor_1.T)`.  So is this, `tensor_1.mm(tensor_1.T)`. And this, `tensor_1 @ tensor_1.T`
 
    * **😤 Where I Got Stuck**
+      * Why do we have to randomly squeeze tensors?  I understand the squeezing a tensor removes the 1 deminsions.
 
 ## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
    * **📃 Description**
