@@ -4,7 +4,7 @@
 
 # Binary & Multi-class Classification
 
-This repo will contain all exercises I did that cover different aspects of working with PyTorch.  If you are reading this thanks for watching me grow. 😄
+Creating binary and multi-class classification models. Also I have to choose the appropriate loss and optimization functions.
 
 ## Technologies
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -15,10 +15,7 @@ This repo will contain all exercises I did that cover different aspects of worki
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## 📚 [Binary & Multiclass Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
-   * **📄 Description**
-
-        These exercises consist of creating binary and multi-class classification models. Also I have to choose the appropriate loss and optimization functions.
+## 📙 [Jupyter Notebook](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
 
    * **🔑 Key Takeaways**
         * I've used Relu before but somehow these exercise really brought home what non-linearity really means.  If you have a regression line or some classification data that can be separated with a straight line then you don't need ReLu or any other non-linear activation function.  I understood that it took the max(0, x) before essentially turning off neurons.  But to plot it and see the lines curve was a click moment for me.
