@@ -18,9 +18,13 @@ This repo will contain all exercises I did that cover different aspects of worki
 ## 📃Description
 
 This repo contains different aspects of PyTorch, what I learned, what finally clicked, and what took a minute.
-
-
   
 ## 🙏 Acknowledgments
 
 * [Daniel Bourke](https://github.com/mrdbourke)
+
+## 📚 Fundamentals (Tensors)
+
+## 📚 Regression
+
+## 📚 Binary & Multiclass Classification
