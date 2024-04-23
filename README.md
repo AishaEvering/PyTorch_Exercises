@@ -41,13 +41,13 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
        * `nn.L1Loss()` is MAE (Mean Absolute Error).  This is the loss function for regression models. Basically, how far on average where the predictions off from the ground truth?
        * SGD Optimizer (Stochastic Gradient Descent) works with a lot of model types including linear regression.  It changes the model's parameters (weights, bias) **using a subset of the training data** in order to lower the loss/cost function.
        * Set to Train Mode, Forward Pass, Calculate the Loss, Zero the gradients, Back Propagation, Optimizer Step
-       * When testing or making predictions be sure to put the model in eval mode so it doesn't so extra uneeded steps like gradient descent, dropout, etc..
+       * When testing or making predictions be sure to put the model in eval mode so it doesn't so extra unneeded steps like gradient descent, dropout, etc..
        * Also when testing or making predictions use `with torch.inference_mode():` for faster processing
        * It's recommended to save the stat_dict instead of the entire model.
        * When saving the best model be sure to use `deepcopy(model.stat_dict())` or the best_model will be updated as the model continues to train.
 
    * **😤 Where I Got Stuck**
-       * Squeezing and Unsqueezing tensors still seem a little unintuitive.  I recongnize the error so the fix is quick but I will like when to squeeze/unsqueeze to become more intuitive.
+       * Squeezing and Unsqueezing tensors still seem a little unintuitive.  I recognize the error so the fix is quick but I will like when to squeeze/unsqueeze to become more intuitive.
     
          
 ## 📚 [Binary & Multiclass Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
