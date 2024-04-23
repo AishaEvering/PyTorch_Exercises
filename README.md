@@ -30,7 +30,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
      *  This is how you multiply a tensor, `tensor_1.matmul(tensor_1.T)`.  So is this, `tensor_1.mm(tensor_1.T)`. And this, `tensor_1 @ tensor_1.T`
 
    * **😤 Where I Got Stuck**
-      * Why do we have to randomly squeeze tensors?  I understand the squeezing a tensor removes the 1 deminsions.
+      * Why do we have to randomly squeeze tensors?  I understand the squeezing a tensor removes the 1 dimensions.
 
 ## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
    * **📄 Description**
