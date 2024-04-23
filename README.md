@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="Face Verfication" width="600" height="300">
+   <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="PyTorch Logo" width="600" height="300">
 </p>
 
 # PyTorch Exercises
@@ -25,7 +25,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 ## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Linear_Regression.md)
     
-## 📚 [Binary & Multiclass Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
+## 📚 [Binary & Multi-class Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Classification.md)
 
 ## 🙏 Acknowledgments
