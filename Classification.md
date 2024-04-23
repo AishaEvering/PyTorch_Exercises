@@ -19,7 +19,7 @@ Creating binary and multi-class classification models. Also I have to choose the
 ## 📙 [Jupyter Notebook](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
 
 * **🔑 Key Takeaways**
-      * I've used Relu before but somehow these exercise really brought home what non-linearity really means.  If you have a regression line or some classification data that can be separated with a straight line then you don't need ReLu or any other non-linear activation function.  I understood that it took the max(0, x) before essentially turning off neurons.  But to plot it and see the lines curve was a click moment for me.
+   * I've used Relu before but somehow these exercise really brought home what non-linearity really means.  If you have a regression line or some classification data that can be separated with a straight line then you don't need ReLu or any other non-linear activation function.  I understood that it took the max(0, x) before essentially turning off neurons.  But to plot it and see the lines curve was a click moment for me.
    * LeakyRelu is supposed to be better because it doesn't turn the neurons completely off.
    * Using the Sequential container to chain the layers within the nnModule makes writing the forward function a lot easier.
    * I understand that you can build a model with the sequential container alone.  Creating a nn.Module subclass is good practice for now.
