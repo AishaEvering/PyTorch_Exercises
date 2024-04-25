@@ -19,13 +19,13 @@ This repo will contain all exercises I did that cover different aspects of worki
 
 This repo contains different aspects of PyTorch, what I learned, what finally clicked, and what took a minute.
   
-## 📚 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
+## 🔤 [Fundamentals (Tensors)](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/00_pytorch_fundamentals_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Fundamentals.md)
 
-## 📚 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
+## 📈 [Linear Regression](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/01_pytorch_workflow_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Linear_Regression.md)
     
-## 📚 [Binary & Multi-class Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
+## 🍎🍊🍋 [Binary & Multi-class Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Classification.md)
 
 ## 🙏 Acknowledgments
