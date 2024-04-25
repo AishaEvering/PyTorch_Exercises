@@ -29,3 +29,21 @@ Here I am using PyTorch to build a computer vision model. I seem to gravitate to
 
   * I think I need to look out my print outs when the model it training.  I think I got a calculation wrong somewhere.
   * *to be continued...*
+ 
+* **🤓 TIL**
+
+  * I cam across this today and I don't want to forget it.  It has nothing to do with Computer Vision though, it's more about EDA.  
+    Have you heard of `DataFrame.melt()` I've been studying a lot and I've until today, no one mentioned it.  It's really cool.  It takes a list of columns and "melts" them into rows.  Which makes visualizing the data really cool.
+
+   Snippet I don't want to forget:<br>
+   ```
+  features = ["YearBuilt", "MoSold", "ScreenPorch"]
+
+   sns.relplot(
+       x="value",
+       y="SalePrice",
+       col="variable",
+       data=df.melt(id_vars="SalePrice", value_vars=features),
+       facet_kws=dict(sharex=False),
+   );
+   ```
