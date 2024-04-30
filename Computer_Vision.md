@@ -16,7 +16,7 @@ Here I am using PyTorch to build a computer vision model. I seem to gravitate to
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## 📙 Jupyter Notebook TBD
+## 📙 [Jupyter Notebook](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/03_pytorch_computer_vision_exercises.ipynb)
 
 * **🔑 Key Takeaways**
    * Besides creating your own there are a lot of ways to get data.  In this lesson I learned how to get data from PyTorch.  But there's also Kaggle, IBM, MNIST, so on and so on....
