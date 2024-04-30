@@ -28,6 +28,10 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 ## 🍎🍊🍋 [Binary & Multi-class Classification](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/02_pytorch_classification_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Classification.md)
 
+## 👓 [Computer Vision](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/03_pytorch_computer_vision_exercises.ipynb)
+   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Computer_Vision.md)
+   
+
 ## 🙏 Acknowledgments
 
 * [Daniel Bourke](https://github.com/mrdbourke) best teacher ever!
