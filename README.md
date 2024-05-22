@@ -30,6 +30,9 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
 ## 👓 [Computer Vision](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/03_pytorch_computer_vision_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Computer_Vision.md)
+
+## 👓 [Custom Datasets](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/04_pytorch_custom_datasets_exercises.ipynb)
+   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/CustomDatasets.md)
    
 
 ## 🙏 Acknowledgments
