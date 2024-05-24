@@ -13,7 +13,7 @@ Breaking code into python scripts for reusability.
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)](https://matplotlib.org/)
 [![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
-## 📙 [Jupyter Notebook](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/04_pytorch_custom_datasets_exercises.ipynb)
+## 📙 [Jupyter Notebook](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/05_pytorch_going_modular_exercise_template.ipynb)
 
 * **🔑 Key Takeaways**
    * Although it's good practice to break the code into reusable scripts there are a few drabacks.
