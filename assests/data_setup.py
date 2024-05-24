@@ -9,13 +9,13 @@ from torch.utils.data import DataLoader
 
 NUM_WORKERS = os.cpu_count()
 
-def create_dataloaders(train_dir: str, test_dir:str, transform: transforms.Compose, 
+def create_dataloaders(train_dir: str, test_dir:str, transform: transforms.Compose,
                        batch_size: int = 1, num_workers: int = NUM_WORKERS) -> tuple[DataLoader, DataLoader, list[str]]:
   """Creates training and testing DataLoaders.
 
-  Takes in a training directory and testing directory path and turns them into 
+  Takes in a training directory and testing directory path and turns them into
   PyTorch Datasets and then into PyTorch DataLoaders.
-  
+
   Args:
     train_dir: Path to training directory.
     test_dir: Path to testing directory.
@@ -47,7 +47,7 @@ def create_dataloaders(train_dir: str, test_dir:str, transform: transforms.Compo
                                 batch_size=batch_size, # how many samples per batch?
                                 num_workers=num_workers, # how many subprocesses to use for data loading? (higher = more)
                                 shuffle=True, # shuffle the data?
-                                pin_memory=True) 
+                                pin_memory=True)
 
   test_dataloader = DataLoader(dataset=test_data,
                               batch_size=batch_size,

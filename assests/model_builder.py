@@ -1,4 +1,4 @@
-"""Contains PyTorch model code to instantiate a TinyVGG model from the 
+"""Contains PyTorch model code to instantiate a TinyVGG model from the
 CNN Explainer websitel
 """
 import torch
