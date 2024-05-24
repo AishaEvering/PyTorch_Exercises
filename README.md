@@ -33,8 +33,10 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
 ## 📑 [Custom Datasets](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/04_pytorch_custom_datasets_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/CustomDatasets.md)
-   
 
+## 🧱 [Getting Modular](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/04_pytorch_custom_datasets_exercises.ipynb)
+   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Modular.md)
+   
 ## 🙏 Acknowledgments
 
 * [Daniel Bourke](https://github.com/mrdbourke) best teacher ever!
