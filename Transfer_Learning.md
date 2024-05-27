@@ -28,7 +28,8 @@ Breaking code into python scripts for reusability.
 
 * **😤 Where I Got Stuck**
 
-  * There are multiple ways of training a model.  When I tried the way of using weights.transform to train my data things did not go well.
+  * There are multiple ways of training a model.  When I tried the way of using weights.transform to train my data things did not go well. (Update
+) I figured it out.  It's the best way to go just in case the recipe for transforming the data for the base model changes.
  
 * **🤓 TIL (I have my hand in several aspects of Machine Learning so sometimes I will come across something I thought was cool and need a place to remember it.  This is that place.)**
 
