@@ -37,7 +37,7 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 ## 🧱 [Getting Modular](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/05_pytorch_going_modular_exercise_template.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Modular.md)
 
-## 🧱 [Getting Modular](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Transfer_Learning.md)
+## ↪️ [Transfer Learning](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/06_pytorch_transfer_learning_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Transfer_Learning.md)
 
    
