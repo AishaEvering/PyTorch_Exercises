@@ -2,7 +2,7 @@
    <img src="https://github.com/AishaEvering/PyTorch_Exercises/blob/main/header_2.png" alt="PyTorch Logo" width="600" height="300">
 </p>
 
-# Transfer Learning
+# Experiment Tracking
 <sup>[Go to Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/README.md)</sup>
 
 Running experiments and using Tensor Board to analyze the results.
