@@ -42,6 +42,9 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
 ## 👩‍🔬 [Experiment Tracking](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/07_pytorch_experiment_tracking_exercise_template.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Experiments.md)
+
+## 📃 [Paper Replicating](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/08_pytorch_paper_replicating_exercises.ipynb)
+   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/PaperReplicating.md)
    
 ## 🙏 Acknowledgments
 
