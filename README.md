@@ -45,6 +45,9 @@ This repo contains different aspects of PyTorch, what I learned, what finally cl
 
 ## 📃 [Paper Replicating](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/08_pytorch_paper_replicating_exercises.ipynb)
    [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/PaperReplicating.md)
+
+## 📃 [Deploying](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/09_pytorch_model_deployment_exercises.ipynb)
+   [Read Me](https://github.com/AishaEvering/PyTorch_Exercises/blob/main/Deploying.md)
    
 ## 🙏 Acknowledgments
 
